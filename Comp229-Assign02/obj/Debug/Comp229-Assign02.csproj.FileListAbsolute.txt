@@ -1,0 +1,12 @@
+E:\Practice\Comp229-Assign02\Comp229-Assign02\bin\Comp229-Assign02.dll
+E:\Practice\Comp229-Assign02\Comp229-Assign02\bin\Comp229-Assign02.pdb
+E:\Practice\Comp229-Assign02\Comp229-Assign02\obj\Debug\Comp229-Assign02.csprojResolveAssemblyReference.cache
+E:\Practice\Comp229-Assign02\Comp229-Assign02\obj\Debug\Comp229-Assign02.dll
+E:\Practice\Comp229-Assign02\Comp229-Assign02\obj\Debug\Comp229-Assign02.pdb
+D:\ASP_Net\Comp229-Assign02\Comp229-Assign02\Comp229-Assign02\bin\Comp229-Assign02.dll.config
+D:\ASP_Net\Comp229-Assign02\Comp229-Assign02\Comp229-Assign02\bin\Comp229-Assign02.dll
+D:\ASP_Net\Comp229-Assign02\Comp229-Assign02\Comp229-Assign02\bin\Comp229-Assign02.pdb
+D:\ASP_Net\Comp229-Assign02\Comp229-Assign02\Comp229-Assign02\obj\Debug\Comp229-Assign02.csprojResolveAssemblyReference.cache
+D:\ASP_Net\Comp229-Assign02\Comp229-Assign02\Comp229-Assign02\obj\Debug\Comp229-Assign02.csproj.CoreCompileInputs.cache
+D:\ASP_Net\Comp229-Assign02\Comp229-Assign02\Comp229-Assign02\obj\Debug\Comp229-Assign02.dll
+D:\ASP_Net\Comp229-Assign02\Comp229-Assign02\Comp229-Assign02\obj\Debug\Comp229-Assign02.pdb
